@@ -28,7 +28,6 @@ STEPS :
 
 5) Conclusions.
 
-6) Further Enhancements.
-
-7) Acknowledgement and References.
+CONCLUSION:-
+In conclusion, our credit card fraud detection project has successfully developed a robust system capable of identifying fraudulent transactions with a high degree of accuracy. This achievement has the potential to significantly reduce financial losses and enhance customer trust. While our current model demonstrates impressive results, the ever-evolving nature of fraud necessitates ongoing efforts to refine and improve our detection methods.
 
